@@ -7,10 +7,6 @@ Edited on Thu May 11, 2017
 
 from pylab import *
 from scipy.special import fresnel
-import matplotlib.pyplot as plt
-
-## baca file masukan
-#-------------------
 import numpy as np
 import scipy.optimize as opt
 import matplotlib.pyplot as plt
