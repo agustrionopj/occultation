@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Dec 30 17:02:33 2014
 Edited on Thu May 11, 2017
 
 @author: PJ
