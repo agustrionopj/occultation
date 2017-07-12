@@ -10,6 +10,7 @@ from scipy.special import fresnel
 import numpy as np
 import scipy.optimize as opt
 import matplotlib.pyplot as plt
+import seaborn; seaborn.set()
 
 pjgGel, weight1, weight2 = loadtxt('transcurveb.txt', unpack=True)
 
